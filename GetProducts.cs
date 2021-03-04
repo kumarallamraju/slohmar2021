@@ -7,7 +7,7 @@ using SOH21DryRunFunctionApp.Models;
 using System.Net.Http;
 using System.Threading.Tasks;
 
-//comments abcdef
+//comments
  
 namespace SOH21DryRunFunctionApp
 {
