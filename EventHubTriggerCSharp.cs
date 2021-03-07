@@ -7,6 +7,7 @@ using Microsoft.Azure.EventHubs;
 using Microsoft.Azure.WebJobs;
 using Microsoft.Extensions.Logging;
 
+// small comment to trigger github CI/CD
 namespace SOH21DryRunFunctionApp
 {
     public static class EventHubTriggerCSharp
