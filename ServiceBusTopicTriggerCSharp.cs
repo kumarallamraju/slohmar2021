@@ -22,7 +22,6 @@ namespace SOH21DryRunFunctionApp
           public string LocationId { get; set; }
           public string ReceiptImageBase64 { get; set; }
      }
-
      public static class ServiceBusTopicTriggerCSharp
      {
           [FunctionName("ProcessAllMessages")]
